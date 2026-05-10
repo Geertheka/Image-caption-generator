@@ -1,0 +1,7 @@
+tensorflow
+keras
+torch
+transformers
+pillow
+numpy
+matplotlib
