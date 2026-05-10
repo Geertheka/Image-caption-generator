@@ -1,0 +1,5 @@
+Dataset: Flickr8K
+~8,000 images with 5 captions per image
+Multiple annotations enable learning of linguistic variability
+Supports mapping between visual context and language structure
+https://www.kaggle.com/datasets/adityajn105/flickr8k
